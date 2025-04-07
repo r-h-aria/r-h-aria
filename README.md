@@ -1,7 +1,13 @@
 # 👋 Welcome to my Github Profile!
 
-## 🎓 A little about me.
+## 🎓 A Little About me.
 My name is Rehaan and I am a new student at Everett Community College. I am currently studying Information Technology.
+I'm an avid learner who is very interested in anything technology related. In particular, cybersecurity and networking are my main focuses.
+
+## ✔️ My Goals.
+Currently, I am in the process of getting my Google IT Support Professional Certificate. 
+Along my educational journey, I would like to enhance my skillsets by obtaining other industry certifications such as the CompTIA A+ and Sec+.
+I would also like to engage myself in the college community and take part in clubs and activities on campus.
 
 <!--
 **r-h-aria/r-h-aria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
