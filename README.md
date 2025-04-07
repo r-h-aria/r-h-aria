@@ -1,5 +1,7 @@
-# Welcome to my Github Profile!
-My name is Rehaan and I am a new student at Everett Community College, majoring in Information Technology!
+# 👋 Welcome to my Github Profile!
+
+## 🎓 A little about me.
+My name is Rehaan and I am a new student at Everett Community College. I am currently studying Information Technology.
 
 <!--
 **r-h-aria/r-h-aria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
